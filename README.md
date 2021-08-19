@@ -13,7 +13,7 @@ A web based screen sharing tool. Enables any device with a web browser to be a s
 
 ## Timeline
 Event | Dates
-- | -
+--- | ---
 Initialized | August 19, 2021
 Work weeks | August 20-31, 2021
 Publish Date | September 1, 2021
